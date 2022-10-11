@@ -72,4 +72,6 @@ class Bike
 # Expected output example: my_bike.pedal_faster(10) => 10
 # Expected output example: my_bike.pedal_faster(18) => 28
 # Expected output example: my_bike.brake(5) => 23
-# Expected output example: my_bike.brake(25) => 0
+# Expected output example: my_bike.brake(25) => 0 
+
+# added in 3a ^^^^
